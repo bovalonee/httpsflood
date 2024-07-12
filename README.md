@@ -6,20 +6,12 @@ With features to set delay (milisecs), bot (number sent traffic) and used proxy 
 ### Lauch Set
 
 ```bash
-npm install httpsflood
-```
-
-```bash
-mv node_modules/httpsflood ./ && cd httpsflood
-```
-
-```bash
-chmod 777 ddos.sh
+npm install httpsflood && mv node_modules/httpsflood ./ && cd httpsflood && chmod 777 ddos.sh
 ```
 
 ```bash
 bash ddos.sh
 ```
 
-### ⚠️
-its only for education perpose.
+### Notice Warn
+Only for education perpose.
