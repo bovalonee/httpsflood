@@ -16,3 +16,10 @@ mv node_modules/httpsflood ./
 ```bash
 chmod 777 ddos.sh
 ```
+
+```bash
+bash ddos.sh
+```
+
+### ⚠️
+its only for education perpose.
